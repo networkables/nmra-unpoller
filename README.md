@@ -11,5 +11,5 @@ docker run
   -e UP_UNIFI_DEFAULT_PASS="YOUR_UNIFI_PASSWORD"
   -e UP_INFLUXDB_ORG="YOUR_ORG_NAME"
   -e UP_INFLUXDB_AUTH_TOKEN="YOUR_ORG_TOKEN"
- ghcr.io/networkables/nmra-unpoller:1.0.0
+ ghcr.io/networkables/nmra-unpoller:1.1.0
  ```
